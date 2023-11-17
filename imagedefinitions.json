@@ -1,0 +1,6 @@
+[
+  {
+    "name": "nginx",
+    "imageUri": "130891196576.dkr.ecr.us-east-1.amazonaws.com/nginx:latest"
+  }
+]
